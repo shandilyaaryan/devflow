@@ -1,0 +1,12 @@
+{
+    "extends": [
+      "next/core-web-vitals",
+      "standard",
+      "plugin:tailwindcss/recommended",
+      "prettier"
+    ],
+    "rules": {
+      // Add any custom rules here if needed
+    }
+  }
+  
